@@ -1,3 +1,6 @@
+//Should've added the db operations in the model. Now controller is cluttered...
+
+
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
